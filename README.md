@@ -1,1 +1,1 @@
-# Bascis_Embedded_systems
+# Basics_Embedded_systems
