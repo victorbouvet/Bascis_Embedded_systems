@@ -1,4 +1,5 @@
 # Basics_Embedded_systems
+#### 6 pratictal work of 4 hours
 
 ## Session 1 : First steps in C on UVision5 - Creating a project - Starting the 8051F020 - GPIO and Timers 
   - First codes in C for the 8051F020 in the Microvision4 environment 
