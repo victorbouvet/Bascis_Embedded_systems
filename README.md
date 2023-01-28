@@ -19,5 +19,3 @@
 PC)
 ## Session 5: ADC - DAC
 - Learn to configure and use analog-to-digital and digital-to-analog conversion devices
-## Session 6: Synthesis - Code structuring
-- Work on code structuring - Cohabitation of several applications on the same processor
